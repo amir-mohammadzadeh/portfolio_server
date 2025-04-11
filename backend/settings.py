@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whiteniose.middleware.WhiteNioseMiddleware',
+    "whitenoise.middleware.WhiteNoiseMiddleware",
 ]
 
 ROOT_URLCONF = 'backend.urls'
@@ -128,7 +128,7 @@ CORS_ALLOWED_ORIGENS =[
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 
-STATICFILES_STROGE = 'Whitenoise.storage.CompresseManifastStaticFilesStorage'
+STATICFILES_STROGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
