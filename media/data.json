@@ -1,0 +1,294 @@
+{
+    "siteInfo": {
+        "title": "امیر محمدزاده | طراحی سایت",
+        "headerText": "",
+        "language": "fa",
+        "theme": "dark"
+    },
+    "SiteDocuments": {
+        "logo": "logo.png",
+        "headerImage": "landing_bg.png",
+        "profile": "porofile_2.png",
+        "profileImage": "porofile_1.png",
+        "rezumePDF": "Amir.Mohammadzadeh_cv.pdf"
+    },
+    "AboutMe": {
+        "name": "امیر",
+        "family": "محمدزاده",
+        "expertise": "توسعه دهنده وب",
+        "email": "amir.code98@gmaile.com",
+        "phoneNumber": "09149718819",
+        "birthday": "1377",
+        "address": "آذربایجان شرقی، مرند",
+        "aboutMe": "من با دو سال تجربه خودآموز در برنامه نویسی، به عنوان یک عاشق برنامه نویسی با تمرکز بر رشد و توسعه مهارت ها هستم. تجربیات گذشته ام در کار تیمی به من کمک کرده اند تا توانایی قوی در این زمینه داشته باشم و همچنین توانایی برقراری روابط مثبت با همکارانم را دارم. هدف اصلی من، افزایش مهارت های خود با حضور در یک محیط کاری پویا و پرچالش است تا بتوانم توانمندی های حرفه ای خود را افزایش داده و به ارزش تیمم اضافه کنم. من به دنبال یادگیری مفاهیم و تکنولوژی های جدید همیشه باقی میمانم و تعهد دارم که به دستاوردهای تیم و سازمانم بیفزایم.",
+        "points": "مسلط به Git - پشتیبانی ",
+        "githubLink": "https://github.com/amir-mohammadzadeh",
+        "linkedinLink": "https://www.linkedin.com/in/amir-mohammadzadeh-23b864291",
+        "telegramLink": "https://t.me/a02m09"
+    },
+    "Services": [
+        {
+            "id": 1,
+            "title": "توسعه سایت",
+            "title_En": "Web development",
+            "discription": "طراحی و توسعه سایت به بهترین شکل و با استفاده از جدیدترین امکانات ",
+            "discription_En": "",
+            "icon": "web-dev.png"
+        },
+        {
+            "id": 2,
+            "title": "مینی اپ تلگرام",
+            "title_En": "Telegram mini app ",
+            "discription": "توسعه بخش فرانت اند مینی اپ تلگرام با React js",
+            "discription_En": "",
+            "icon": "mobile-app.png"
+        }
+    ],
+    "Clients": [
+        {
+            "id": 1,
+            "clientName": "کاپوت",
+            "clientName_En": "kapoot",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "clientName": "اس مارکت",
+            "clientName_En": "smarket",
+            "image": "s-market.png"
+        }
+    ],
+    "JobExperience": [
+        {
+            "id": 1,
+            "title": "React Developer",
+            "start_From": "1403",
+            "end_At": "1404",
+            "lang": "Fa",
+            "companyName": "شرکت تبلیغاتی بولوت",
+            "discription": "بیشتر از یک سال میباشد که با شرکت تبلیغاتی بولوت به عنوان فرانت کار همکاری دارم و در این مدت تجربیات خیلی خوبی کسب کرده ام."
+        }
+    ],
+    "EducationQuality": [
+        {
+            "id": 1,
+            "title": "کارشناسی",
+            "start_From": "1395",
+            "end_At": "1400",
+            "lang": "Fa",
+            "companyName": "دانشگاه صنعتی ارومیه",
+            "discription": ""
+        },
+        {
+            "id": 2,
+            "title": "دیپلم",
+            "start_From": "1388",
+            "end_At": "1395",
+            "lang": "Fa",
+            "companyName": "موسسه آموزش عالی علامه جعفری",
+            "discription": ""
+        }
+    ],
+    "Skills": [
+        {
+            "id": 1,
+            "title": "HTML / CSS",
+            "value": 4
+        },
+        {
+            "id": 2,
+            "title": "JavaScript",
+            "value": 4.5
+        },
+        {
+            "id": 3,
+            "title": "React",
+            "value": 4
+        },
+        {
+            "id": 4,
+            "title": "TypeScript",
+            "value": 1.5
+        },
+        {
+            "id": 5,
+            "title": "Tailwind",
+            "value": 2.5
+        },
+        {
+            "id": 6,
+            "title": "Bootstrap",
+            "value": 2.5
+        },
+        {
+            "id": 7,
+            "title": "RestAPI",
+            "value": 4.5
+        },
+        {
+            "id": 8,
+            "title": "Python",
+            "value": 3.5
+        }
+        
+    ],
+    "portfolios": [
+        {
+            "id": 1,
+            "title": "سبد خرید",
+            "title_En": "mini shop",
+            "shortDiscriptin": "قسمتی از یک سایت فروشگاهی",
+            "shortDiscriptin_En": ""
+        },
+        {
+            "id": 2,
+            "title": "Multi Step Form",
+            "title_En": "multi step form",
+            "shortDiscriptin": "فرم چند مرحله ای",
+            "shortDiscriptin_En": ""
+        },
+        {
+            "id": 3,
+            "title": "قالب سایت",
+            "title_En": "login (React.Js)",
+            "shortDiscriptin": "سایت تک صفحه ای نوشته شده با React js",
+            "shortDiscriptin_En": ""
+        },
+        {
+            "id": 4,
+            "title": "صفحه ثبت نام و ورود",
+            "title_En": "Login page",
+            "shortDiscriptin": "",
+            "shortDiscriptin_En": ""
+        },
+        {
+            "id": 5,
+            "title": "رزومه",
+            "title_En": "My Website",
+            "shortDiscriptin": "سایت رزومه من که قبلا نوشته بودم!",
+            "shortDiscriptin_En": ""
+        },
+        {
+            "id": 6,
+            "title": "سایت فروشگاهی",
+            "title_En": "",
+            "shortDiscriptin": "نمونه اولیه یک سایت فروشگاهی",
+            "shortDiscriptin_En": ""
+        }
+    ],
+    "PortfolioDetailes": [
+        {
+            "id": 1,
+            "portfolioId": 1,
+            "longDiscriptin": "قسمتی از یک سایت فروشگاهی میباشد که شامل صفحه جزئیات محصول و سبد خرید با امکان اضافه کردن به سبد خریدو ویرایش آن میباشد. دیتای پروژه از طریق api آزمایشی دریافت میشود.",
+            "longDiscriptin_En": "",
+            "skillsUsed": "HTML/CSS - JavaScript - React Js - Tailwind ",
+            "likeCount": 0,
+            "disLikeCount": 0,
+            "PreviewLink": "https://amir-mohammadzadeh.github.io/mini-shop/",
+            "sourceLink": ""
+        },
+        {
+            "id": 2,
+            "portfolioId": 2,
+            "longDiscriptin": "چالش فرم چند مرحله ای که در سایت frontMentor قرار داده شده بود.",
+            "longDiscriptin_En": "",
+            "skillsUsed": "HTML/CSS - TypeScript - React Js - Redux ",
+            "likeCount": 0,
+            "disLikeCount": 0,
+            "PreviewLink": "https://amir-mohammadzadeh.github.io/multi-step-form/",
+            "sourceLink": ""
+        },
+        {
+            "id": 3,
+            "portfolioId": 3,
+            "longDiscriptin": "سایت تک صفحه ای نوشته شده با React js که کاملا استاتیک بوده و دیتایی ندارد.",
+            "longDiscriptin_En": "",
+            "skillsUsed": "HTML/CSS - JavaScript - React Js",
+            "likeCount": 0,
+            "disLikeCount": 0,
+            "PreviewLink": "https://amir-mohammadzadeh.github.io/first-react/",
+            "sourceLink": ""
+        },
+        {
+            "id": 4,
+            "portfolioId": 4,
+            "longDiscriptin": "صفحه ثبت نام و ورود که با React Js نوشته شده است.",
+            "longDiscriptin_En": "",
+            "skillsUsed": "HTML/CSS - JavaScript - React Js",
+            "likeCount": 0,
+            "disLikeCount": 0,
+            "PreviewLink": "https://amir-mohammadzadeh.github.io/login-with-react/",
+            "sourceLink": ""
+        },
+        {
+            "id": 5,
+            "portfolioId": 5,
+            "longDiscriptin": "این پروژه رزومه قبلی بنده میباشد که به صورت یک سایت spa نوشته شده.",
+            "longDiscriptin_En": "",
+            "skillsUsed": "HTML/CSS - JavaScript - React Js - Redux - Tailwind ",
+            "likeCount": 0,
+            "disLikeCount": 0,
+            "PreviewLink": "https://amir-mohammadzadeh.github.io/amir.cv/",
+            "sourceLink": ""
+        },
+        {
+            "id": 6,
+            "portfolioId": 6,
+            "longDiscriptin": "این پروژه نمونه اولیه از یک سایت فروشگاهی مباشد که قرار است در آینده تکمیل شود. ",
+            "longDiscriptin_En": "",
+            "skillsUsed": "HTML/CSS - JavaScript - React Js - Redux - Rest API",
+            "likeCount": 0,
+            "disLikeCount": 0,
+            "PreviewLink": "https://amir-mohammadzadeh.github.io/alli-baba/",
+            "sourceLink": ""
+        }
+    ],
+    "portfoliosImages": [
+        {
+            "id": 1,
+            "portfolioId": 1,
+            "desktopImage": "mini-shope.png",
+            "mobileImage": "mini-shope_mb.png"
+        },
+        {
+            "id": 2,
+            "portfolioId": 2,
+            "desktopImage": "multi-step-form.png",
+            "mobileImage": "multi-step-form_mb.png"
+        },
+        {
+            "id": 3,
+            "portfolioId": 3,
+            "desktopImage": "galeb.png",
+            "mobileImage": "galeb_mb.png"
+        },
+        {
+            "id": 4,
+            "portfolioId": 4,
+            "desktopImage": "login.png",
+            "mobileImage": "login_mb.png"
+        },
+        {
+            "id": 5,
+            "portfolioId": 5,
+            "desktopImage": "cv.png",
+            "mobileImage": "cv_mb.png"
+        },
+        {
+            "id": 6,
+            "portfolioId": 6,
+            "desktopImage": "alibaba.png",
+            "mobileImage": "alibaba_mb.png"
+        }
+    ],
+    "portfoliosComments": [],
+    "contactInfo": {
+        "email": "amir.code98@gmaile.com",
+        "phoneNumber": "09149718819",
+        "discription": "برای ارتباط با من علاوه برا اطلاعات تماس میتواند از طریق همین فرم نیز اقدام کنید. ",
+        "discription_En": "",
+        "job": "فرانت اند کار",
+        "job_En": "Front End"
+    }
+}
